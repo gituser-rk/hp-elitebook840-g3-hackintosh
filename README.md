@@ -9,7 +9,7 @@ Thanks a lot to him! Mostly his guide and files worked for me, only a few others
 Inside the EFI folder my configuration and kexts. You need to create your own serialnumber and boardserialnumber in SMBIOS section in config.plist!
 
 # Hardware changes
-I exchanged the original Intel WiFi card to a used Apple Airport Express WiFi5 (AC) / Bluetooth 4 card A1466 (Apple part number: Apple part number : 661-7481). The antenna connectors will fit. It is a long card, but with the adapter below it fits inside the Elitebook. No driver needed. I can use Airdrop and Airplay screen mirroring/extension.
+I exchanged the original Intel WiFi card to a used Apple Airport Express WiFi5 (AC) / Bluetooth 4 card A1466 (Apple part number: Apple part number : 661-7481). The antenna connectors will fit. It is a long card, but with the adapter below it fits inside the Elitebook. No additional driver (kext) needed, runs ootb. I can use Airdrop and Airplay screen mirroring/extension.
 ![Pic1](pics/AppleAirportA1466.jpg)
 A NGFF M.2 Adapter is needed to fit the card in the socket. I used these search terms: "BCM94360CS2 BCM943224PCIEBT2 12 + 6-poliges WLAN-Kartenmodul NGFF M.2 B9CRH" and bought it on 3bay
 
