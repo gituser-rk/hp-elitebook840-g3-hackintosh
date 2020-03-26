@@ -1,5 +1,5 @@
 # hp-elitebook840-g3-hackintosh
-Needed Files for a running HP Elitebook 840 G3 based Hachintosh
+Needed Files for a running HP Elitebook 840 G3 based Hackintosh
 
 Mainly based on
 https://github.com/Hologos/hackintosh-hp-elitebook-840-g3
