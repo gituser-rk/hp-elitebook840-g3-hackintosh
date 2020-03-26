@@ -5,7 +5,7 @@ Mainly based on
 https://github.com/Hologos/hackintosh-hp-elitebook-840-g3
 Thanks a lot to him! Mostly his guide and files worked for me, only a few others where required to replace/add. 
 
-# What's working:
+# What's working (Mojave 10.14.6):
 - Airplay screen mirroring / extension
 - Airdrop
 - WiFi
