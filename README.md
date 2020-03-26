@@ -6,7 +6,7 @@ https://github.com/Hologos/hackintosh-hp-elitebook-840-g3
 Thanks a lot to him! Mostly his guide and files worked for me, only a few others where required to replace/add. 
 
 # EFI
-Inside the EFI folder my configuration and kexts. You need to create your own serial and systemID in config.plist!
+Inside the EFI folder my configuration and kexts. You need to create your own serialnumber and boardserialnumber in SMBIOS section in config.plist!
 
 # Hardware changes
 I exchanged the original Intel WiFi card to a used Apple Airport Express WiFi5 (AC) / Bluetooth 4 card A1466 (Apple part number: Apple part number : 661-7481). The antenna connectors will fit. It is a long card, but with the adapter below it fits inside the Elitebook. No driver needed. I can use Airdrop and Airplay screen mirroring/extension.
