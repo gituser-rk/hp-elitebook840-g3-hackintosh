@@ -15,7 +15,7 @@ Thanks a lot to him! Mostly his guide and files worked for me, only a few others
 - Sleep/wake on lid close/open
 - Touchpad gesture support
 - Audio
-- webcam
+- Webcam
 - USB
 - Hardware keys for display backlight and keyboard illumination
 
