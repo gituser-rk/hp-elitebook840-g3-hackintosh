@@ -15,10 +15,13 @@ Thanks a lot to him! Mostly his guide and files worked for me, only a few others
 - Sleep/wake on lid close/open
 - Touchpad gesture support
 - Audio
+- webcam
+- USB
 - Hardware keys for display backlight and keyboard illumination
 
 # What's NOT working (Mojave 10.14.6):
 - card reader
+- fingerprint sensor
 
 # EFI
 Inside the EFI folder my configuration and kexts. You need to create your own serialnumber and boardserialnumber in SMBIOS section of config.plist!
