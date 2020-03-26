@@ -5,8 +5,18 @@ Mainly based on
 https://github.com/Hologos/hackintosh-hp-elitebook-840-g3
 Thanks a lot to him! Mostly his guide and files worked for me, only a few others where required to replace/add. 
 
+# What's working:
+- Airplay screen mirroring / extension
+- Airdrop
+- WiFi
+- Ethernet
+- Bluetooth
+- Battery / charging indicator in status bar
+- Sleep/wake on lid close/open
+- Touchpad gesture support
+
 # EFI
-Inside the EFI folder my configuration and kexts. You need to create your own serialnumber and boardserialnumber in SMBIOS section in config.plist!
+Inside the EFI folder my configuration and kexts. You need to create your own serialnumber and boardserialnumber in SMBIOS section of config.plist!
 
 # Hardware changes
 I exchanged the original Intel WiFi card to a used Apple Airport Express WiFi5 (AC) / Bluetooth 4 card A1466 (Apple part number: Apple part number : 661-7481). The antenna connectors will fit. It is a long card, but with the adapter below it fits inside the Elitebook. No additional driver (kext) needed, runs ootb. I can use Airdrop and Airplay screen mirroring/extension.
