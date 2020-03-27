@@ -1,8 +1,8 @@
 # hp-elitebook840-g3-hackintosh
-Needed Files for a running HP Elitebook 840 G3 based Hackintosh
+Needed files for a running HP Elitebook 840 G3 based Hackintosh.
 
 Mainly based on
-https://github.com/Hologos/hackintosh-hp-elitebook-840-g3
+https://github.com/Hologos/hackintosh-hp-elitebook-840-g3.
 Thanks a lot to him! Mostly his guide and files worked for me, only a few others where required to replace/add. 
 
 # What's working (Mojave 10.14.6):
@@ -36,7 +36,7 @@ Wireless
 --------
 I exchanged the original Intel WiFi card with a used Apple Airport Express WiFi5 (AC) / Bluetooth 4 card A1466 (Apple part number : 661-7481). The antenna connectors will fit. It is a long card, but with the adapter below it fits inside the Elitebook. No additional driver (kext) needed, runs ootb. I can use Airdrop and Airplay screen mirroring/extension.
 ![Pic1](pics/AppleAirportA1466.jpg)
-A NGFF M.2 Adapter is needed to fit the card in the socket. I used these search terms: "BCM94360CS2 BCM943224PCIEBT2 12 + 6-poliges WLAN-Kartenmodul NGFF M.2 B9CRH" and bought it on 3bay
+A NGFF M.2 Adapter is needed to fit the card into the socket. I used these search terms: "BCM94360CS2 BCM943224PCIEBT2 12 + 6-poliges WLAN-Kartenmodul NGFF M.2 B9CRH" and bought it on 3bay
 
 ![Pic2](pics/NGFFadapter.jpg)
 Cut the adapter like this:
