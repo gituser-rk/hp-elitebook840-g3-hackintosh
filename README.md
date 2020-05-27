@@ -15,7 +15,7 @@ Thanks a lot to him! Mostly his guide and files worked for me, only a few others
 - Sleep/wake on lid close/open
 - Touchpad gesture support
 - Audio
-- Webcam
+- Webcam (not reliable)
 - USB
 - Hardware keys for display backlight and keyboard illumination
 
@@ -30,7 +30,7 @@ Inside the EFI folder my configuration and kexts. You need to create your own se
 
 Keyboard
 --------
-Swapped the Windows and left ALT key. I use the default german keyboard layout and after the swap I can use the Windows key as command(apple) key and the ALT is ALT.
+Swapped the Windows and left ALT key caps. I use the default german keyboard layout and after the swap I can use the Windows key as command(apple) key and the ALT is ALT.
 
 Wireless
 --------
@@ -41,5 +41,5 @@ A NGFF M.2 Adapter is needed to fit the card into the socket. I used these searc
 ![Pic2](pics/NGFFadapter.jpg)
 Cut the adapter like this:
 ![Pic2](pics/NGFFadapter2.jpg)
-You can use the original screw to fix the adapter inside the Elitebook socket. After mounting protect the metal screw and surrounding parts at the mainboard with electric tape to prevent shortage. Now install the Airport card and connect the antenna cables.
+You can use the original screw to fix the adapter inside the Elitebook socket. After mounting protect the metal screw and surrounding parts at the mainboard with electric tape to prevent shortage. Now install the Airport card and connect the antenna cables. I've fixed the Airport card only with some tape.
 To get the Bluetooth and WiFi card working, check BIOS Settings in Elitebook. In section "Build-in components" enable Bluetooth and WiFi. This put Pin 54 and 56 of the socket to low means enabling the Airport card.
